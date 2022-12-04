@@ -1,0 +1,6 @@
+.bgimage{
+    background: url('/images/2.jpg');
+    background-size: cover;
+    width:900px;
+    height: 1000px;
+}
